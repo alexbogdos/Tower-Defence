@@ -1,0 +1,11 @@
+Library/
+Builds/
+Logs/
+obj/
+Assets/TextMesh Pro
+Assets/VFX
+Assets/SuperTiled2Unity
+Assets/Editor Default Resources
+*.vs
+*.vsconfig
+*.meta
